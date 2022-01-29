@@ -1,0 +1,37 @@
+body
+{
+  background-image: url("contact.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+h1 
+{
+    color: rgba(245, 18, 18, 0.986);
+    font-size: 75px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.container
+{
+  width: 50%;
+  padding: 20px;
+  margin: auto;
+  background-color: rgba(177, 134, 134, 0.637);
+  border-radius: 10px;
+}
+
+h2
+{
+  color: rgba(15, 15, 15, 0.986);
+  font-family: cursive;
+  text-align: center;
+}
+
+.container1
+{
+  text-align-last: center;
+  padding: 10px;        
+}
