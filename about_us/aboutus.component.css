@@ -1,0 +1,71 @@
+body
+{
+  background-image: url("reception.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  scrollbar-width: none;
+}
+
+h2
+{
+  color: rgba(248, 246, 246, 0.986);
+  font-family: cursive;
+  text-align: center;
+}
+
+h1
+{
+  color: rgba(231, 12, 12, 0.986);
+  font-family: cursive;
+  text-align: center;
+  font-size: 50px;
+}
+
+.container
+{
+  width: 80%;
+  padding: 20px;
+  margin: auto;
+  background-color: rgba(177, 134, 134, 0.637);
+  border-radius: 10px;
+}
+
+.container1
+{
+  width: 80%;
+  padding: 20px;
+  margin: auto;
+  background-color: rgba(177, 134, 134, 0.637);
+  border-radius: 10px;
+}
+
+h3
+{
+  color: rgba(248, 246, 246, 0.986);
+  font-family: cursive;
+  text-align: center;
+  line-height: 100%;
+}
+
+p
+{
+  color: rgba(248, 246, 246, 0.986);
+  font-family: cursive;
+  text-align: center;
+  line-height: 90%;
+}
+
+.container2
+{
+  width: 80%;
+  padding: 20px;
+  margin: auto;
+  background-color: rgba(177, 134, 134, 0.637);
+  border-radius: 10px;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 70px 10px;
+}
